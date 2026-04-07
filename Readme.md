@@ -12,7 +12,7 @@ This architecture is built on a foundation of "defense-in-depth" security and mu
 
 ## 🗺️ Network Topology
 
-[![network-diagram-HFT.drawio (2).png](https://kb.stellaramc.ir/uploads/images/gallery/2025-08/scaled-1680-/network-diagram-hft-drawio-2.png)](https://kb.stellaramc.ir/uploads/images/gallery/2025-08/network-diagram-hft-drawio-2.png)
+<img width="1020" height="1320" alt="003 - TSE Infrastructure Diagram-Latest-2025" src="https://github.com/user-attachments/assets/8223645a-d085-4e61-a139-e4dfebfde526" />
 
 ---
 
